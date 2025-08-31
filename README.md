@@ -4,7 +4,7 @@ Welcome to the Promptopia project, a Next.js application that allows users to sh
 
 ## Live Demo
 
-Check out the live site: [Live Demo](https://promptopia.sameer.dev/)
+Check out the live site: [Live Demo](https://promptopia-lbgt50u9o-sameer-randives-projects.vercel.app/)
 
 ## Features
 
